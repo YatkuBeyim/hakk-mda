@@ -1,4 +1,4 @@
-eat('Yatku');
-sleep('Beyim');
-code('Ares');
-repeat('Media');
+eat();
+sleep();
+code();
+repeat();
